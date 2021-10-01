@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Matriza\Matriza\bin\Debug\Matriza.exe.config
+C:\Users\User\source\repos\Matriza\Matriza\bin\Debug\Matriza.exe
+C:\Users\User\source\repos\Matriza\Matriza\bin\Debug\Matriza.pdb
+C:\Users\User\source\repos\Matriza\Matriza\obj\Debug\Matriza.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Matriza\Matriza\obj\Debug\Matriza.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matriza\Matriza\obj\Debug\Matriza.exe
+C:\Users\User\source\repos\Matriza\Matriza\obj\Debug\Matriza.pdb
